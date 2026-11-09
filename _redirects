@@ -1,0 +1,18 @@
+# Netlify redirects. Format: from  to  status. A trailing ! forces the rule even if a file exists.
+
+# Keep build files and directory indexes out of the public site.
+/Makefile        /  301!
+/site.yaml       /  301!
+/template.html   /  301!
+/README.md       /  301!
+/p/              /  301!
+/files/          /  301!
+
+# Short paths to internal pages.
+/research        /p/research.html
+/publications    /p/publications.html
+/cv              /p/cv.html
+
+# Short vanity paths to external URLs.
+/orcid           https://orcid.org/0000-0003-2549-0301
+/github          https://github.com/kaboyo

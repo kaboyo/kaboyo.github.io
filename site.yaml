@@ -1,0 +1,27 @@
+# Site-wide settings. Passed to pandoc on every build, so every page can use them.
+# Page frontmatter overrides anything set here.
+
+# Production URL, no trailing slash. Change it if you move to a custom domain.
+# Used for canonical links, og:url and sitemap.xml.
+url: https://kaboyo.github.io
+
+site-name: Expedito Olimi
+
+# Optional. Add a headshot at files/headshot.jpg, then uncomment this line
+# and the `image` line in index.md.
+# social-image: files/headshot.jpg
+
+person:
+  name: Expedito Olimi
+  job-title: Microbial ecologist and nematologist
+  employer: Graz University of Technology
+  employer-url: https://www.tugraz.at/
+  knows-about:
+    - Plant microbiome
+    - Seed microbiome
+    - Microbial ecology
+    - Nematology
+    - Microbial inoculants
+  same-as:
+    - https://orcid.org/0000-0003-2549-0301
+    - https://github.com/kaboyo
