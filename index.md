@@ -1,9 +1,11 @@
 ---
 title: Expedito Olimi
 description: "Microbial ecologist and nematologist studying how plants assemble and inherit their associated microorganisms."
-# image: files/headshot.jpg
+image: files/headshot.jpg
 home: true
 links:
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?user=5FZm-5QAAAAJ"
   - label: ORCID
     url: "https://orcid.org/0000-0003-2549-0301"
   - label: GitHub

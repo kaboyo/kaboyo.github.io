@@ -3,7 +3,7 @@ title: Publications
 description: "Peer-reviewed publications of Expedito Olimi on plant, seed and soil microbiomes."
 ---
 
-17 peer-reviewed publications (7 as first or co-first author) · h-index 7 · 140+ citations (Web of Science). \* corresponding author · † co-first author. Also on [ORCID](https://orcid.org/0000-0003-2549-0301).
+17 peer-reviewed publications (7 as first or co-first author) · h-index 7 · 140+ citations (Web of Science). \* corresponding author · † co-first author. Also on [Google Scholar](https://scholar.google.com/citations?user=5FZm-5QAAAAJ) and [ORCID](https://orcid.org/0000-0003-2549-0301).
 
 ## Under review
 
@@ -44,5 +44,10 @@ description: "Peer-reviewed publications of Expedito Olimi on plant, seed and so
 ## 2021
 
 - Kusstatscher, P.\*, Adam, E., Wicaksono, W. A., Bernhart, M., **Olimi, E.**, Müller, H., & Berg, G. (2021). Microbiome-assisted breeding to understand cultivar-dependent assembly in *Cucurbita pepo*. *Frontiers in Plant Science*, 12, 642027. [doi:10.3389/fpls.2021.642027](https://doi.org/10.3389/fpls.2021.642027)
+
+## Theses
+
+- **Olimi, E.** (2023). Microbiome management for biodiversity in horticultural farming systems. Doctoral thesis, Graz University of Technology, Austria. [doi:10.3217/BMPHX-PK790](https://doi.org/10.3217/BMPHX-PK790)
+- **Olimi, E.** (2019). Epigenetic interactions between rice and the plant-parasitic nematode *Meloidogyne graminicola*. MSc thesis, Ghent University, Belgium.
 
 [Back home](../index.html)

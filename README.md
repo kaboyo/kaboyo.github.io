@@ -24,7 +24,8 @@ p/publications.md full publication list
 p/cv.md          positions, education, funding, teaching, service
 template.html    pandoc template
 style.css        light/dark styles
-_redirects       Netlify short links (ignored by GitHub Pages)
+_redirects       short links (/cv, /scholar, ...); `make` turns them into
+                 <path>/index.html forwarding pages for GitHub Pages
 .nojekyll        stops GitHub Pages from re-processing the .md files
 files/           static files (put headshot.jpg here)
 ```

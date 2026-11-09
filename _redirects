@@ -14,5 +14,6 @@
 /cv              /p/cv.html
 
 # Short vanity paths to external URLs.
+/scholar         https://scholar.google.com/citations?user=5FZm-5QAAAAJ
 /orcid           https://orcid.org/0000-0003-2549-0301
 /github          https://github.com/kaboyo

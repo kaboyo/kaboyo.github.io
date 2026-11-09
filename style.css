@@ -21,6 +21,12 @@
   box-sizing: border-box;
 }
 
+/* Stop iOS from inflating text in landscape. */
+html {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
 body {
   margin: 0;
   background: var(--bg);
@@ -34,6 +40,13 @@ main {
   max-width: 40rem;
   margin: 0 auto;
   padding: 2.5rem 1.25rem;
+  /* Let long DOIs and URLs wrap on narrow screens. */
+  overflow-wrap: break-word;
+}
+
+/* Breathing room between long reference entries. */
+li {
+  margin-bottom: 0.5em;
 }
 
 a {
