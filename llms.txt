@@ -1,6 +1,6 @@
 # Expedito Olimi
 
-> Microbial ecologist and nematologist studying how plants assemble and inherit their associated microorganisms. Erwin Schrödinger Fellow and Principal Investigator, Institute of Environmental Biotechnology, TU Graz, Austria.
+> Microbial ecologist and nematologist studying how plants assemble and inherit their associated microorganisms. Erwin Schrödinger Fellow and Principal Investigator, Institute of Environmental Biotechnology, TU Graz, Austria. From 2027: Horizon MSCA Cofund REACH-UPPA Postdoctoral Fellow, Université de Pau et des Pays de l'Adour (UPPA), France.
 
 Every page on this site is also available as plain Markdown at the same path with a `.md` extension.
 

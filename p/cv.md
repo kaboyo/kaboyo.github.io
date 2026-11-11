@@ -5,6 +5,9 @@ description: "Academic positions, education, funding, teaching and service of Ex
 
 ## Academic and research positions
 
+**From 2027** · Horizon MSCA Cofund REACH-UPPA Postdoctoral Fellow<br>
+Université de Pau et des Pays de l'Adour (UPPA), France. Cross-kingdom communication between plants and microbes: deciphering the role of Microbiome (M) genes for promoting plant health.
+
 **Jan 2026 – present** · Erwin Schrödinger Fellow, Principal Investigator<br>
 Institute of Environmental Biotechnology, TU Graz, Austria. Return phase: host genetic and chemical drivers of seed microbiome assembly; strain isolation and synthetic community design; supervision of BSc and MSc researchers.
 

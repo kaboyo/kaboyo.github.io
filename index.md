@@ -12,7 +12,7 @@ links:
     url: "https://github.com/kaboyo"
 ---
 
-I'm a microbial ecologist and nematologist interested in understanding how plants assemble and inherit their associated microorganisms. I am currently an Erwin Schrödinger Fellow and Principal Investigator at the [Institute of Environmental Biotechnology](https://www.tugraz.at/), TU Graz, Austria.
+I'm a microbial ecologist and nematologist interested in understanding how plants assemble and inherit their associated microorganisms. I am currently an Erwin Schrödinger Fellow and Principal Investigator at the [Institute of Environmental Biotechnology](https://www.tugraz.at/), TU Graz, Austria. From 2027, I will join the [Université de Pau et des Pays de l'Adour](https://www.univ-pau.fr/) (UPPA), France, as a Horizon MSCA Cofund REACH-UPPA Postdoctoral Fellow.
 
 I trained as a plant nematologist on the rice and *Meloidogyne graminicola* pathosystem at Ghent University, and completed a doctorate on microbiome management in horticultural systems within the EU H2020 EXCALIBUR consortium. In my Austrian Science Fund (FWF) project, MoToMi, I study the host factors that shape the tomato seed microbiome, and extend this to the Microbiome (M) gene framework: host genes that control root chemistry and so determine which microbes a plant recruits.
 
