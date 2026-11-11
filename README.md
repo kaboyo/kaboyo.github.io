@@ -22,6 +22,8 @@ index.md         homepage (bio + link buttons)
 p/research.md    research themes and methods
 p/publications.md full publication list
 p/cv.md          positions, education, funding, teaching, service
+p/pub-*.md       one summary page per paper, linked from p/publications.md and llms.txt
+llms.txt         index of every page's .md address for AI agents
 template.html    pandoc template
 style.css        light/dark styles
 _redirects       short links (/cv, /scholar, ...); `make` turns them into

@@ -1,0 +1,40 @@
+# Expedito Olimi
+
+> Microbial ecologist and nematologist studying how plants assemble and inherit their associated microorganisms. Erwin Schrödinger Fellow and Principal Investigator, Institute of Environmental Biotechnology, TU Graz, Austria.
+
+Every page on this site is also available as plain Markdown at the same path with a `.md` extension.
+
+## Pages
+
+- [Home](https://kaboyo.github.io/index.md): short biography and profile links (Google Scholar, ORCID, GitHub)
+- [Research](https://kaboyo.github.io/p/research.md): research themes, current MoToMi project, resources and methods
+- [Publications](https://kaboyo.github.io/p/publications.md): complete publication list with DOIs, manuscripts under review and theses
+- [CV](https://kaboyo.github.io/p/cv.md): positions, education, funding and awards, teaching, presentations and service
+
+## Publication summaries
+
+One page per peer-reviewed paper: citation, plain-language summary, key findings, methods, keywords and links.
+
+- [Qi et al. 2026, Microbiome](https://kaboyo.github.io/p/pub-qi-2026-seed-microbiome-review.md): What do we know about the seed microbiome?
+- [Wei et al. 2026, Communications Biology](https://kaboyo.github.io/p/pub-wei-2026-microplastic-lead-viruses.md): Microplastic and lead shift microbiomes enriching viral auxiliary metabolic genes for potential polylactic acid degradation
+- [Chen et al. 2026, mSystems](https://kaboyo.github.io/p/pub-chen-2026-tomato-seed-microbiome.md): The tomato seed microbiome is mainly shaped by host genotype and production site
+- [Abulebda et al. 2026, Applied Soil Ecology](https://kaboyo.github.io/p/pub-abulebda-2026-wireworm-behaviour.md): Behavioural responses of Agriotes lineatus and A. litigiosus wireworms to natural substances, synthetic volatile organic compounds and entomopathogenic fungi: implications for sustainable pest management
+- [Ajibade et al. 2025, Journal of Sustainable Agriculture and Environment](https://kaboyo.github.io/p/pub-ajibade-2025-nigerian-vegetable-seeds.md): Indigenous Nigerian vegetables harbour plant species-specific seed microbial signatures for bacteria and fungi
+- [Olimi et al. 2025, Environmental Microbiology Reports](https://kaboyo.github.io/p/pub-olimi-2025-mondia-whitei.md): Insights into the Mondia whitei microbiome across geographic regions in Eastern Africa
+- [Olimi et al. 2025, Environmental Microbiome](https://kaboyo.github.io/p/pub-olimi-2025-bioinoculants-volatiles.md): Plant microbiome responses to bioinoculants and volatiles
+- [Vitali et al. 2025, Scientific Reports](https://kaboyo.github.io/p/pub-vitali-2025-paenibacillus-k16.md): Combined genomic and phenomic analyses reveal multifunctionality of Paenibacillus polymyxa K16 for plant nutrition, growth, and health
+- [Furmanczyk et al. 2025, Soil Systems](https://kaboyo.github.io/p/pub-furmanczyk-2025-soil-nematodes.md): An analysis of soil nematode communities across diverse horticultural cropping systems
+- [Bigiotti et al. 2025, Applied Soil Ecology](https://kaboyo.github.io/p/pub-bigiotti-2025-microarthropods.md): Estimating microarthropod diversity in cropping systems by comparing ecological indices across Europe
+- [Vitali et al. 2025, Acta Horticulturae](https://kaboyo.github.io/p/pub-vitali-2025-phenomics-genomics.md): Combining phenomics and genomics for bioproduct development and use in agriculture
+- [Oaikhena et al. 2024, Scientific Reports](https://kaboyo.github.io/p/pub-oaikhena-2024-medicinal-plant-phyllosphere.md): The phyllosphere of Nigerian medicinal plants Euphorbia lateriflora and Ficus thonningii is inhabited by a specific microbiota
+- [Olimi et al. 2023, Applied Soil Ecology](https://kaboyo.github.io/p/pub-olimi-2023-apple-orchard-nematodes.md): Bioinoculants and organic soil amendments affect nematode diversity in apple orchards
+- [Olimi et al. 2022, Frontiers in Soil Science](https://kaboyo.github.io/p/pub-olimi-2022-biodynamic-preparations.md): Deciphering the microbial composition of biodynamic preparations and their effects on the apple rhizosphere microbiome
+- [Rybakova et al. 2022, Frontiers in Sustainable Food Systems](https://kaboyo.github.io/p/pub-rybakova-2022-serratia-volatiles.md): To defend or to attack? Antagonistic interactions between Serratia plymuthica and fungal plant pathogens, a species-specific volatile dialogue
+- [Olimi et al. 2022, Environmental Microbiome](https://kaboyo.github.io/p/pub-olimi-2022-strawberry-microbiome.md): Insights into the microbiome assembly during different growth stages and storage of strawberry plants
+- [Kusstatscher et al. 2021, Frontiers in Plant Science](https://kaboyo.github.io/p/pub-kusstatscher-2021-pumpkin-breeding.md): Microbiome-assisted breeding to understand cultivar-dependent assembly in Cucurbita pepo
+
+## Profiles
+
+- [Google Scholar](https://scholar.google.com/citations?user=5FZm-5QAAAAJ)
+- [ORCID 0000-0003-2549-0301](https://orcid.org/0000-0003-2549-0301)
+- [GitHub](https://github.com/kaboyo)
